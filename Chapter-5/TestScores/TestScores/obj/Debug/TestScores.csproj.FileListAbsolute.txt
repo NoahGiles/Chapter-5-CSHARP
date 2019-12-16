@@ -1,0 +1,7 @@
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\TestScores\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\TestScores\TestScores\bin\Debug\TestScores.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\TestScores\TestScores\bin\Debug\TestScores.pdb
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\TestScores\TestScores\obj\Debug\TestScores.csprojAssemblyReference.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\TestScores\TestScores\obj\Debug\TestScores.csproj.CoreCompileInputs.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\TestScores\TestScores\obj\Debug\TestScores.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\TestScores\TestScores\obj\Debug\TestScores.pdb

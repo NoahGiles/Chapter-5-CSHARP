@@ -1,0 +1,7 @@
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumFourInts\SumFourInts\bin\Debug\SumFourInts.exe.config
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumFourInts\SumFourInts\bin\Debug\SumFourInts.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumFourInts\SumFourInts\bin\Debug\SumFourInts.pdb
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumFourInts\SumFourInts\obj\Debug\SumFourInts.csprojAssemblyReference.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumFourInts\SumFourInts\obj\Debug\SumFourInts.csproj.CoreCompileInputs.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumFourInts\SumFourInts\obj\Debug\SumFourInts.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumFourInts\SumFourInts\obj\Debug\SumFourInts.pdb

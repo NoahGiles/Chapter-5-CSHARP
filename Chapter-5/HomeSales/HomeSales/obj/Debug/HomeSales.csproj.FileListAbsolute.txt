@@ -1,0 +1,7 @@
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\HomeSales\HomeSales\bin\Debug\HomeSales.exe.config
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\HomeSales\HomeSales\bin\Debug\HomeSales.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\HomeSales\HomeSales\bin\Debug\HomeSales.pdb
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\HomeSales\HomeSales\obj\Debug\HomeSales.csprojAssemblyReference.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\HomeSales\HomeSales\obj\Debug\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\HomeSales\HomeSales\obj\Debug\HomeSales.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\HomeSales\HomeSales\obj\Debug\HomeSales.pdb

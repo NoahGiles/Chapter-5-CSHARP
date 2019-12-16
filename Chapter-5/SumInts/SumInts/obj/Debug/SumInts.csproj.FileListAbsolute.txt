@@ -1,0 +1,7 @@
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumInts\SumInts\bin\Debug\SumInts.exe.config
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumInts\SumInts\bin\Debug\SumInts.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumInts\SumInts\bin\Debug\SumInts.pdb
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumInts\SumInts\obj\Debug\SumInts.csprojAssemblyReference.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumInts\SumInts\obj\Debug\SumInts.csproj.CoreCompileInputs.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumInts\SumInts\obj\Debug\SumInts.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-5\SumInts\SumInts\obj\Debug\SumInts.pdb
